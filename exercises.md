@@ -1,5 +1,5 @@
 ### 1.1: User Input Validation
-Write a function that asks the user for a number. If the input is not a number, raise a `ValueError`. If the number is negative, raise a `ValueError` with a custom error message saying "Negative numbers are not allowed."
+Write a function that asks the user for a number. If the number is negative, raise a `ValueError` with a custom error message saying "Negative numbers are not allowed."
 
 Next, add a try-except block so that the user is asked for a new number if the previous was not satisfactory.
 
