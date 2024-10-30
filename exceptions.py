@@ -70,4 +70,3 @@ except CustomError as e:
 # - try-except handling specific and multiple exceptions
 # - else: if no error occurs
 # - finally: for actions that run regardless of errors
-# - Custom exception
